@@ -74,8 +74,6 @@ java -cp out minigithub.Main
 
 ![Class Diagram](docs/Class%20Diagram.png)
 
-Sumber teks diagram ada di [`docs/class-diagram.mmd`](docs/class-diagram.mmd). Gambar PNG di atas
-adalah versi yang dipakai untuk submit.
 
 Relasi utamanya:
 
